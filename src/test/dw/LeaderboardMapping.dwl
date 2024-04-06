@@ -2,5 +2,10 @@
 output application/json
 
 import * from dw::iq::speedway::Leaderboard
+
+var newResults = readUrl("classpath://examples/leaderboard-new-results.json", "application/json")
+var scores = readUrl("classpath://examples/leaderboard-scores.json", "application/json")
 ---
-0 to 2 map uuid()
+//scores
+//newResults
+appendResults(scores, newResults, "tier2")
