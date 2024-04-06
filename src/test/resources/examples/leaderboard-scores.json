@@ -1,0 +1,30 @@
+[
+    {
+      "tier": "tier3",
+      "name": "Ross Mason",
+      "racerId": "aff7db56-e1e2-414f-9367-d4d6cc0cb26e",
+      "rank": 1,
+      "time": 29.907
+    },
+    {
+      "tier": "tier3",
+      "name": "Eugene Berman",
+      "racerId": "39400900-aa1a-4b58-b237-052fb0efdc29",
+      "rank": 2,
+      "time": 31.101
+    },
+    {
+        "tier": "tier3",
+        "name": "pd",
+        "racerId": "59a5a842-9ba5-459d-a734-34c597b8ae30",
+        "rank": 3,
+        "time": 41.884
+    },
+    {
+      "tier": "tier3",
+      "name": "Dan Diephouse",
+      "racerId": "6c8f5a82-bd56-4bb0-80bc-b0d9ab8ca143",
+      "rank": 4,
+      "time": 213.781
+    }
+]
